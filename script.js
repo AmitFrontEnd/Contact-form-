@@ -46,6 +46,10 @@ submitBtn.addEventListener('click', (e) => {
     if (validateForm()) {
         fixed.style.top='20%'
        contactForm.reset()
+       setTimeout(() => {
+          fixed.style.top='-20%'
+    }, 2000);
+    
     } else {
         console.log("no");
     }
