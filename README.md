@@ -3,7 +3,7 @@
 This is a simple **Frontend Mentor** challenge for practice. The project is fully responsive and built using HTML, CSS, and JavaScript. It includes form validation to ensure user input is correct.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://amitkumar1590.github.io/Contact-form-/)
+🔗 [View Live Site](https://amitfrontend.github.io/Contact-form-/)
 
 ## 📌 Technologies Used
 - HTML
